@@ -1,0 +1,6 @@
+1.安装MongoDB数据库
+2.安装node环境
+3.在node环境下执行npm i(如果速度较慢可以使用淘宝镜像cnpm)
+4.在根目录下执行npm(cnpm) run dev
+5.在server/bin/www目录下执行node www
+6.在浏览器输入127.0.0.1:8080进行访问

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "superagent-charset": "^1.2.0"
+  }
+}
